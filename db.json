@@ -1,3 +1,11 @@
 {
-  "items": []
+  "extinguisher": [],
+  "sensors": [],
+  "login": [
+    {
+      "id": "0058",
+      "login": "3",
+      "pswd": "354345"
+    }
+  ]
 }
